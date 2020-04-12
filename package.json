@@ -4,7 +4,7 @@
   "homepage": "http://teodosii.github.io/react-notifications-component",
   "description": "React component for creating notifications on the fly",
   "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "types": "types/index.d.ts",
   "scripts": {
     "build": "npm run build:library:dev && npm run build:library:prod",
     "build:library:dev": "webpack --config webpack.dev.js",
